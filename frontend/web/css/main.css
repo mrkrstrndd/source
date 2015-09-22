@@ -1,0 +1,26 @@
+.form-group{
+	margin:0 !important;
+}
+.help-block{
+	display: none !important;
+}
+.formContainer{
+	margin:0 auto !important;
+	max-width: 15em !important;
+}
+.btn-length{
+	width: 100%;
+	margin-top: 1em;
+}
+input[type=email]{
+	border-bottom-right-radius: 0 !important;
+	border-bottom-left-radius: 0 !important;
+	border-bottom: 0;
+	padding:1.5em;
+}
+input[type=password]{
+	border-top-right-radius: 0 !important;
+	border-top-left-radius: 0 !important;
+	border-top: 0;
+	padding:1.5em;
+}
